@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="libs/processing-core.jar"/>
+	<classpathentry kind="lib" path="libs/javaosc.jar"/>
+	<classpathentry kind="lib" path="libs/lusidOSCJava.jar"/>
+	<classpathentry kind="lib" path="libs/oscP5.jar"/>
+	<classpathentry kind="lib" path="libs/Ketai.jar"/>
+	<classpathentry kind="lib" path="libs/jbox2d.jar"/>
+	<classpathentry kind="lib" path="libs/controlP5.jar"/>
+	<classpathentry kind="lib" path="libs/apwidgets.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

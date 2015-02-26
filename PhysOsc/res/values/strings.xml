@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="OSC">OSC Menu</string>
+    <string name="app_name">PhysOsc</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">PhysOsc</string>
+    <string name="Done">Done</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="boids">Boids</string>
+    <string name="title_activity_fourth">FourthActivity</string>
+    <string name="attraction">Attract</string>
+    <string name="osctitle">OSC Settings</string>
+    <string name="oschost">Host</string>
+    <string name="oscportout">Port (outgoing)</string>
+    <string name="oscportin">Port (incoming)</string>
+    <string name="localip">Local IP Address</string>
+    <string name="title_activity_osc">OSC</string>
+    <string name="title_activity_async_send_osctask">AsyncSendOSCTask</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
